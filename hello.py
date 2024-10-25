@@ -1,1 +1,2 @@
-pring('hello')
+if True:
+        pring('hello')
