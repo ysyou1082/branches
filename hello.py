@@ -1,2 +1,2 @@
-if True:
-        pring('hello')
+for _ in range(5) :
+        print('hello')
